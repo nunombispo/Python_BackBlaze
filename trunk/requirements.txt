@@ -13,7 +13,7 @@ logfury==0.1.2
 MarkupSafe==1.1.1
 parse-torrent-title==2.0
 python-dateutil==2.8.1
-requests==2.20.0
+requests==2.31.0
 six==1.15.0
 tqdm==4.46.1
 urllib3==1.26.5
